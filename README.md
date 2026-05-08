@@ -4,7 +4,7 @@
 
 ---
 
-## 💎 Ključne Lastnosti
+## Ključne Lastnosti
 
 ### 1. Dinamično upravljanje igralcev
 Sistem omogoča dodajanje do 6 igralcev. Vsaka kartica igralca je opremljena z unikatnim identifikatorjem, ki omogoča brisanje posameznika brez vpliva na ostale podatke v seji.
@@ -22,7 +22,7 @@ Uporabniški vmesnik uporablja sodobne CSS tehnike:
 
 ---
 
-## 🛠 Tehnični vpogled
+## Tehnični vpogled
 
 ### Upravljanje seje (Session Handling)
 Igra močno sloni na PHP sejah (`$_SESSION`). Logika resetiranja je implementirana na dveh ravneh:
